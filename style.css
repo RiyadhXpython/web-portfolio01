@@ -46,10 +46,6 @@ section{
     height: 500px;
     padding-bottom: 150px;
 }
-#EXPERIENCE{
-    font-size: 1.5rem;
-    background-color: rgb(235, 220, 14);
-    margin: 1rem;
-    padding:1rem;
+.container h2{
     text-align: center;
 }
